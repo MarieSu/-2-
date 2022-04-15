@@ -1,0 +1,12 @@
+Ivanov	Intel Core i5-1135G7	4	8	SSD	1	256	2
+Smirnov	Intel Core i7-1455G9	2	8	SSD	1	512	2
+Kuznetsov	AMD Ryzen 3 5300U	8	16	SSD	1	256	2
+Popov	Intel Core i3-1125G4	12	8	SSD	1	128	2
+Vasiliev	Intel Core i7-1155G7	6	8	SSD	1	512	2
+Petrov	Intel Core i3-1655G7	4	8	SSD	3	256	2
+Sokolov	AMD Ryzen 9 5300U	2	32	SSD	1	256	3
+Mikhailov	Intel Core i3-1165G5	8	8	SSD	1	1000	8
+Novikov	Intel Core i5-1115G5	12	10	SSD	1	256	2
+Fedorov	AMD Ryzen 5 7300U	4	8	SSD	1	512	6
+Morozov	Intel Core i5-1235G3	4	32	SSD	1	512	2
+Volkov	Intel Core i7-1325G7	4	8	SSD	3	1000	2
